@@ -1,0 +1,15 @@
+{
+  "name": "kafka-node-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "author": "Julian Cook",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "kafka-node": "4.1.3",
+    "mocha": "6.2.0"
+  }
+}
